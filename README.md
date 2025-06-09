@@ -21,12 +21,9 @@
 
 ### **Aspectos de Interatividade:**
 
-* **Clima 
-Se você estiver planejando estender esse código, poderia adicionar mais desafios ou objetivos, como uma quantidade limitada de tempo para transportar a planta ou permitir que o jogador controle o clima de alguma forma.
-Dinâmico:** O clima (sol ou chuva) influencia diretamente no crescimento da planta, criando uma interação mais realista.
+* **Clima Dinâmico:** O clima (sol ou chuva) influencia diretamente no crescimento da planta, criando uma interação mais realista.
 * **Tempo de Crescimento:** O tempo e o clima afetam quando o caminhão começará a se mover para transportar a planta.
 
 ### **Objetivo Final (Potencial):**
 
 * O ciclo continua repetindo enquanto o caminhão transporta plantas da "fazenda" para a "cidade". Pode ser interpretado como uma simulação ou um mini jogo onde você "cultiva" e "transporta" uma planta, mas sem uma "vencedora" ou "perdedora". O objetivo é mais sobre observar o processo e como o ambiente (clima) afeta o crescimento da planta.
-* 
